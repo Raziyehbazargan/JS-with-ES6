@@ -1,0 +1,25 @@
+{
+  "name": "JS-with-ES6",
+  "version": "1.0.0",
+  "description": "ECMAScript 6, or ES6, is the next version of JavaScript, and includes many enhancements and new features that make JavaScript coding easier and more maintainable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raziyehbazargan/JS-with-ES6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raziyehbazargan/JS-with-ES6/issues"
+  },
+  "homepage": "https://github.com/Raziyehbazargan/JS-with-ES6#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "babel-cli": "^6.22.2"
+  }
+}
