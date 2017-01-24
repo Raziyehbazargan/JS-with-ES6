@@ -1,5 +1,5 @@
 module.exports = {
-  entry: './script.js',
+  entry: './script/script.js',
   output: {filename: 'bundle.js'},
   module: {
     loaders: [
