@@ -11,4 +11,6 @@ ECMAScript 6, or ES6, is the next version of JavaScript, and includes many enhan
 - Closure
 
 ##### ES6 Syntax:
-- let keyword: block-scoping
+- let keyword: great tools for enforcing block-scoping in JS
+declare variable,  block-scoping
+-
